@@ -31,7 +31,16 @@ Design Tools: Figma, Photoshop
 graphql
 Copy
 Edit
-
+📦 Personal-Portfolio  
+├── 📁 assets               # Images, icons, and design assets  
+├── 📁 css                  # Stylesheets  
+│   ├── styles.css          # Main styles  
+│   ├── animations.css      # GSAP animation styles  
+├── 📁 js                   # JavaScript files  
+│   ├── main.js             # Core functionality  
+│   ├── gsap.js             # Scroll animations  
+├── index.html              # Main HTML file  
+└── README.md               # Project documentation  
 🚀 Getting Started
 1️⃣ Clone the Repository
 bash
