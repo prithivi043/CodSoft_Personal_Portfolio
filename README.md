@@ -1,58 +1,38 @@
-🚀 Personal Portfolio - Prithivi
-Welcome to my Personal Portfolio! This project showcases my skills, projects, achievements, and experience as a frontend developer with expertise in React.js, Figma, and Photoshop. The website features smooth GSAP animations that trigger on scroll for an interactive user experience.
+🚀 Prithivi's Personal Portfolio
+Welcome to my Personal Portfolio! This website showcases my expertise as a frontend developer with a strong focus on React.js, Figma, and Photoshop. It features a clean, modern design with GSAP animations that trigger on scroll, ensuring a smooth and engaging user experience.
 
-🔗 Live Demo: [Coming Soon]
 🔗 GitHub Repository: Portfolio Repo
 
-📌 Features
-✅ Responsive Design – Fully optimized for mobile, tablet, and desktop views.
-✅ GSAP Scroll Animations – Sections animate only when they appear in the viewport.
-✅ Interactive Navigation Bar – A sleek and modern navigation menu.
-✅ Smooth Transitions – Enhanced user experience with fade-ins, slide-ins, and zoom effects.
-✅ Custom Wave & Glow Footer – A unique footer with a glowing animation effect.
-✅ Social Media Links – Direct links to GitHub & LinkedIn.
+📌 Key Features
+✅ Responsive Design – Optimized for all screen sizes.
+✅ GSAP Scroll Animations – Smooth animations triggered when content enters the viewport.
+✅ Modern UI/UX – Aesthetic design with an interactive experience.
+✅ Custom Wave & Glow Footer – A visually appealing animated footer.
+✅ Seamless Navigation – Easy access to different sections of the portfolio.
+✅ Social Media Integration – Links to my GitHub & LinkedIn.
 
-🛠️ Tech Stack
+🛠️ Tech Stack Used
 Frontend: HTML, CSS, JavaScript
 Framework: React.js
 Animations: GSAP (GreenSock Animation Platform)
 Design Tools: Figma, Photoshop
-🎨 GSAP Scroll Animations Implemented
-🔹 Navbar: Smooth slide-down on page load.
-🔹 Hero Section: Text & image fade-in on scroll.
-🔹 Projects Section: Zoom-in effect when scrolling into view.
-🔹 Achievements: Slide-in animation from the left.
-🔹 Footer: Glow effect activates only when reached.
-
-📸 Screenshots
-🚀 Coming Soon...
-
-📂 Project Structure
-graphql
-Copy
-Edit
-📦 Personal-Portfolio  
-├── 📁 assets               # Images, icons, and design assets  
-├── 📁 css                  # Stylesheets  
-│   ├── styles.css          # Main styles  
-│   ├── animations.css      # GSAP animation styles  
-├── 📁 js                   # JavaScript files  
-│   ├── main.js             # Core functionality  
-│   ├── gsap.js             # Scroll animations  
-├── index.html              # Main HTML file  
-└── README.md               # Project documentation  
-🚀 Getting Started
-1️⃣ Clone the Repository
+🎨 Animations & Effects
+Navbar: Appears smoothly on page load.
+Hero Section: Text and image fade-in effects on scroll.
+Projects & Achievements: Slide-in and zoom effects when scrolled into view.
+Footer: Custom glow animation activated upon scrolling.
+🚀 How to Use
+Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/prithivi043/CodSoft_Personal_Portfolio.git
 cd CodSoft_Personal_Portfolio
-2️⃣ Open in Browser
-Simply open the index.html file in your browser.
+Run Locally
+Simply open the index.html file in your browser or deploy it using a local server.
 
 📩 Connect With Me
 📌 GitHub: prithivi043
 📌 LinkedIn: Prithiviraj T
 
-⭐ If you like this project, don’t forget to give it a star on GitHub! ⭐
+⭐ If you find this project useful, consider giving it a star on GitHub! ⭐
